@@ -72,7 +72,7 @@ Though Magento provides you with all necessary information in footer you can cha
   * [Magento 2 CMS Display Rules Extension](https://magefan.com/magento-2-cms-display-rules-extension)
   * [Magento 2 Translation Extension](https://magefan.com/magento-2-translation-extension)
   * [Magento 2 WebP Optimized Images Extension](https://magefan.com/magento-2-webp-optimized-images)
-  * [Magento 2 Image Optimization Extension](https://magefan.com/magento-2-image-optimization-extension)
+  * [Magento 2 Image Optimization Extension](https://magefan.com/magento-2-image-optimization)
   * [Magento 2 Zendesk Chat Extension](https://magefan.com/magento-2-zendesk-chat-extension)
   * [Magento 2 Zero Downtime Deployment](https://magefan.com/blog/magento-2-zero-downtime-deployment)
 
