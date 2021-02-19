@@ -3,6 +3,9 @@
 
 Creating a Magento 2 Store you create a brand. And while you brand looks great on the outside you should take care of its inside look. [Magento 2 Admin View Extension](https://magefan.com/magento-2-admin-view-extension) allows you to change the admin color, set new logos and remove footer information. All this to make your admin unique and stunning.
 
+
+<a href="https://magefan.com/magento-2-admin-view-extension"><img width="300" height="60" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/DOWNLOAD_NOW.webp"></a>
+
 ## Benefits
 
 * Bradable Magento 2 Admin Panel
