@@ -82,3 +82,4 @@ Though Magento provides you with all necessary information in footer you can cha
   * [Magento 2 Admin Email Notifications](https://magefan.com/magento-2-admin-email-notifications)
   * [Magento 2 Admin Email Notifications](https://magefan.com/magento-2-admin-email-notifications)
   * [Magento 2 Facebook Pixel Extension](https://magefan.com/magento-2-facebook-pixel-extension)
+  * [Better Magento 2 Checkout Extension](https://magefan.com/better-magento-2-checkout-extension)
