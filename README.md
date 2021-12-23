@@ -50,7 +50,7 @@ Though Magento provides you with all necessary information in footer you can cha
 * [Remove Magento 2 Admin Panel Footer Information](https://magefan.com/magento-2-admin-view-extension/remove-admin-footer-information)
 
 
-## Other [Magento 2 Extensions](https://magefan.com/magento2-extensions) by Magefan
+## Other [Magento 2 Extensions](https://magefan.com/magento-2-extensions) by Magefan
   * [Magento 2 Blog Extension](https://magefan.com/magento2-blog-extension)
   * [Magento 2 Blog Plus Extension](https://magefan.com/magento2-blog-extension/pricing)
   * [Magento 2 Blog Extra Extension](https://magefan.com/magento2-blog-extension/pricing)
