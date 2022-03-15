@@ -51,6 +51,45 @@ Though Magento provides you with all necessary information in footer you can cha
 * [How to Customize Magento Admin Color Schema?](https://magefan.com/magento-2-admin-view-extension/customize-admin-color-schema)
 * [Remove Magento 2 Admin Panel Footer Information](https://magefan.com/magento-2-admin-view-extension/remove-admin-footer-information)
 
+## Demo
+
+Try out our open demo and if you like our extension **please give us some star on Github ★**
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle">
+        Admin Panel Demo
+      </td align="center" valign="middle">
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://opt.demo.magefan.top/admin/admin/">
+          <img
+            src="https://magefan.com/static/version1520969775/frontend/Magefan/new/en_US/images/product-tab-demo-2.jpg"
+            alt="Magento 2 Admin View Extension Admin Panel Demo"
+            height="220"
+          >
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://opt.demo.magefan.top/admin/admin/">
+          view
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+## Need More Features?
+Please contact us to get a quote
+https://magefan.com/contact
+
+## License
+The code is licensed under [EULA](https://magefan.com/end-user-license-agreement).
+
+
 
 ## Other [Magento 2 Extensions](https://magefan.com/magento-2-extensions) by Magefan
   * [Magento 2 Blog Extension](https://magefan.com/magento2-blog-extension)
