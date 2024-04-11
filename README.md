@@ -1,4 +1,4 @@
-# Magento 2 Admin View Extension
+# [Magento 2 Admin View Extension](https://magefan.com/magento-2-admin-view-extension) by Magefan
 
 <a href="https://savelife.in.ua/en/donate-en/#donate-army-card-monthly"><img width="830" height="208" src="https://cm.magefan.com/blog/support-ukraine.png"></a>
 
@@ -6,10 +6,12 @@
 
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/016c1dcfcd29d2b85ead3d1156d7ba11/i/c/icon-admin-view.webp">
 
-Creating a Magento 2 Store you create a brand. And while you brand looks great on the outside you should take care of its inside look. [Magento 2 Admin View Extension](https://magefan.com/magento-2-admin-view-extension) allows you to change the admin color, set new logos and remove footer information. All this to make your admin unique and stunning.
-
+[Magento 2 Admin View Extension](https://magefan.com/magento-2-admin-view-extension) allows you to change the admin color, set new logos and remove footer information. All this to make your admin unique and stunning.
 
 <a href="https://magefan.com/magento-2-admin-view-extension"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-admin-view-extension#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
+
+## Requirements
+  * Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
 
 ## Benefits
 
@@ -24,23 +26,22 @@ Creating a Magento 2 Store you create a brand. And while you brand looks great o
 You don’t necessarily need to keep your admin panel ordinary. Using Magento 2 Admin View  Extension will make it unique and brandable. You can change Menu, Button and Grid colors using the ones available or choosing your own colors.
 
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-admin-color-schema-configuration.webp">
+  <img src="https://cm.magefan.com/mf_webp/png/media/catalog/change-magento-admin-panel-colours.webp">
 </p>
 
 ### Main Logo and Menu Logo Setting
 Logo is a face of your business. It makes your store recognizable and known. So why don’t add it  to your admin panel as well to improve inside brand awareness? Admin View extension for Magento 2 allows you to do that right from the admin with no code editing.
 
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-admin-login-logo.webp">
+  <img src="https://cm.magefan.com/mf_webp/png/media/catalog/change-magento-admin-panel-logo.webp">
 </p>
 
 ### Customizable Magento 2 Admin Footer
 Though Magento provides you with all necessary information in footer you can change that. Magento 2 Admin View Extension allows you to remove footer information about Copyright, Magento Version, and Legal Information if you want. Creating a brandable admin panel hasn’t been that easy.
+
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-admin-panel-footer-customization.webp">
+  <img src="https://cm.magefan.com/mf_webp/png/media/catalog/manage-magento-admin-panel-footer-information.webp">
 </p>
-
-
 
 ## Documentation
 
@@ -84,6 +85,11 @@ Try out our open demo and if you like our extension **please give us some star o
     </tr>
   </tbody>
 </table>
+
+## Support
+If you have any issues, please [contact us](mailto:support@magefan.com)
+then if you still need help, open a bug report in GitHub's
+[issue tracker](https://github.com/magefan/admin-view-extension/issues).
 
 ## Need More Features?
 Please contact us to get a quote
