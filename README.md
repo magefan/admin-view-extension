@@ -6,7 +6,7 @@
 
 A few simple settings will help you create a unique admin panel to match the feel of your brand perfectly.
 
-Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
+Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
 
 <img align="right" width="120" height="70" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
 
