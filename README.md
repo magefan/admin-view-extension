@@ -61,7 +61,7 @@ Try out our open demo and if you like our extension **please give us some star o
     </tr>
     <tr>
       <td align="center" valign="middle">
-        <a href="https://opt.demo.magefan.top/admin/admin/">
+        <a href="https://av.demo.magefan.top/admin/admin/">
           <img
             src="https://cs.magefan.com/version1732118579/frontend/Magefan/next/en_US/Magefan_CssOptimizer/images/product-tab-demo-2.jpg"
             alt="Magento 2 Admin View Extension Admin Panel Demo"
@@ -72,7 +72,7 @@ Try out our open demo and if you like our extension **please give us some star o
     </tr>
     <tr>
       <td align="center" valign="middle">
-        <a href="https://opt.demo.magefan.top/admin/admin/">
+        <a href="https://av.demo.magefan.top/admin/admin/">
           view
         </a>
       </td>
